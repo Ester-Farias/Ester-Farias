@@ -1,8 +1,3 @@
-
-<img align="center" width="600" height="350" src="readme1.gif">
-
-
-
 <h1  align="center"> Buenas! Prazer, Ester Souza 🐈‍🍃 </h1>
 
 
@@ -22,9 +17,9 @@
 - 💻 I'm studying | Web development 
 - 🌱 Improving | JavaScript 
 - 🌵 Difficulty | PHP 7 
-- 💌 contact | esterfariasdesouza19@gmail.com
-- 🏳️‍🌈 pronouns | She/Her 
-- 🍸 curiosities | I'm bartender, self-taught in programming, two cats 
+- 💌 Contact | esterfariasdesouza19@gmail.com
+- 🏳️‍🌈 Pronouns | She/Her 
+- 🍸 Curiosities | I'm bartender, self-taught in programming, two cats 
 
 <br>
 <hr>
