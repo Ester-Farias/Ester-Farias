@@ -1,4 +1,4 @@
-![readme1](https://user-images.githubusercontent.com/103768076/173685000-a65990be-180a-4f54-b554-f28d0d3e704a.gif)
+![readme1]
 <img align="center" width="600" height="350" src="readme1.gif">
 
 
