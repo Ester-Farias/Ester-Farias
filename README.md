@@ -1,4 +1,4 @@
-![readme1]
+
 <img align="center" width="600" height="350" src="readme1.gif">
 
 
