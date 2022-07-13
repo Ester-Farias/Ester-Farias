@@ -19,7 +19,7 @@
 - 🌵 Difficulty | C
 - 💌 Contact | esterfariasdesouza19@gmail.com
 - 🏳️‍🌈 Pronouns | She/Her 
-- 🍸 Curiosities | I'm Head Bartender, self-taught in programming, two cats 
+- 🍸 Curiosities | I'm Head Bartender, self-taught in english, two cats 
 
 <br>
 <hr>
