@@ -1,4 +1,4 @@
-<h1  align="center"> Buenas! Prazer, Ester Souza 🐈‍🍃 </h1>
+<h1  align="center"> Hi there! Welcome, Ester Souza 🐈‍🍃 </h1>
 
 
 
@@ -13,13 +13,13 @@
 <br>
 
 ### About Me
-- ⏳ Age | 22 year old 
-- 💻 I'm studying | Web development 
+- ⏳ Age | 23 year old 
+- 💻 I'm studying | Software Engineering
 - 🌱 Improving | JavaScript 
-- 🌵 Difficulty | PHP 7 
+- 🌵 Difficulty | C
 - 💌 Contact | esterfariasdesouza19@gmail.com
 - 🏳️‍🌈 Pronouns | She/Her 
-- 🍸 Curiosities | I'm bartender, self-taught in programming, two cats 
+- 🍸 Curiosities | I'm Head Bartender, self-taught in programming, two cats 
 
 <br>
 <hr>
