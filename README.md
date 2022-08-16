@@ -15,7 +15,7 @@
 ### About Me
 - ⏳ Age | 23 year old 
 - 💻 I'm studying | Software Engineering
-- 🌱 Improving | JavaScript 
+- 🌱 Improving | HTML and Css3
 - 🌵 Difficulty | C
 - 💌 Contact | esterfariasdesouza19@gmail.com
 - 🏳️‍🌈 Pronouns | She/Her 
