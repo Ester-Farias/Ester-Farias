@@ -15,11 +15,11 @@
 ### About Me
 - ⏳ Age | 23 year old 
 - 💻 I'm studying | Software Engineering
-- 🌱 Improving | HTML and Css3
+- 🌱 Improving | Python
 - 🌵 Difficulty | C language
 - 💌 Contact | esterfariasdesouza19@gmail.com
 - 🏳️‍🌈 Pronouns | She/Her 
-- 🍸 Curiosities | I'm Head Bartender, self-taught in english, two cats 
+- 🍸 Curiosities | Self-taught in english, two cats 
 
 <br>
 <hr>
