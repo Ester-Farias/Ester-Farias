@@ -16,9 +16,7 @@
 - ⏳ Age | 23 year old 
 - 💻 I'm studying | Software Engineering
 - 🌱 Improving | Python
-- 🌵 Difficulty | C language
-- 💌 Contact | esterfariasdesouza19@gmail.com
-- 🏳️‍🌈 Pronouns | She/Her 
+- 💌 Contact | esterfariasdesouza19@gmail.com 
 - 🍸 Curiosities | Self-taught in english, two cats 
 
 <br>
