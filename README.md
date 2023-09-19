@@ -13,7 +13,7 @@
 <br>
 
 ### About Me
-- ⏳ Age | 23 year old 
+- ⏳ Age | 24 year old 
 - 💻 I'm studying | Software Engineering
 - 💌 Contact | esterfariasdesouza19@gmail.com 
 - 🍸 Curiosities | Self-taught in english, two cats 
