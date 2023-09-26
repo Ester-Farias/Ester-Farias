@@ -1,4 +1,3 @@
-<div style="background-color: pink;">
 <h1  align="center"> Hi there! Welcome, Ester Souza 🐈‍🍃 </h1>
 
 
@@ -20,4 +19,3 @@
 
 <br>
 <hr>
-</div>
