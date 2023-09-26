@@ -1,4 +1,4 @@
-<div style="background-color: pink;>
+<div style="background-color: pink;">
 <h1  align="center"> Hi there! Welcome, Ester Souza 🐈‍🍃 </h1>
 
 
