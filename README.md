@@ -1,3 +1,4 @@
+<img src="BannerGitHub.png">
 <h1  align="center"> Hi there! Welcome, Ester Souza 🐈‍🍃 </h1>
 
 
