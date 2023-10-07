@@ -6,12 +6,8 @@
 <p>Sou uma pessoa muito dedicada no que se propõe a fazer e não desistindo no primeiro desafio. Sou uma pessoa adaptativa aos diversos ambientes, acredito que por conta disso sou de fácil relacionamento e comunicativa com todos ao meu redor.</p>
 <p><strong>👓 Quem é a Ester quanto a tecnologia? </strong></p>
 <p align="justify">A curiosidade e a vontade de aprender sempre foram uns dos meus pontos fortes, sempre procurando me aprimorar e me desenvolver mais. Atualmente no 2° semestre de Engenharia de Software estudo algoritmos e programação estruturadas, como também lógica computacional. Como também conclui cursos na parte de front-end, sendo Web Designer em 2015. Porém venho reforçando os mesmos conhecimentos atualmente por meio de cursos na Udemy e também iniciando meus estudos em Python, ofertado pelo Google. </p>
+<p><strong>💼 Quem é a Ester quanto ao trabalho?</strong></p>
+<p align="justify">Minhas experiências profissionais são na área de atendimento em eventos de formaturas, casamentos e aniversários com o foco sempre em melhor atender o cliente e procurando o deixar mais confortável o possível. Atualmente venho estudando para realizar uma transição de carreira para a área de tecnologia.</p>
 
-
-💼 Quem é a Ester quanto ao trabalho? 
-
-Minhas experiências profissionais são na área de atendimento em eventos de formaturas, casamentos e aniversários com o foco sempre em melhor atender o cliente e procurando o deixar mais confortável o possível. Atualmente venho estudando para realizar uma transição de carreira para a área de tecnologia.
-
-👋🏼 Fique à vontade para se conectar comigo através dos canais. Ficarei muito contente em lhe responder. ✨️ 
 <br>
 <hr>
