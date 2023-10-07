@@ -7,8 +7,7 @@
 <hr>
 <br>
 
-
- 😄 Fico muito feliz que você tenha chegado até aqui, então deixe-me apresentar neste breve resumo á você. 
+ <p><strong>😄 Fico muito feliz que você tenha chegado até aqui, então deixe-me apresentar neste breve resumo á você. </strong></p> 
 
 🙋🏻 Quem é a Ester quanto pessoa? 
 
