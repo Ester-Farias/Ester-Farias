@@ -7,11 +7,11 @@
 <hr>
 <br>
 
- <h3><strong>😄 Fico muito feliz que você tenha chegado até aqui, então deixe-me apresentar neste breve resumo á você. </strong></h3> 
+<h3><strong>Fico muito feliz que você tenha chegado até aqui, então deixe-me apresentar neste breve resumo á você:</strong></h3> 
+<p><strong>🙋🏻 Quem é a Ester quanto pessoa?</strong></p>
+<p>Sou uma pessoa muito dedicada no que se propõe a fazer e não desistindo no primeiro desafio. Sou uma pessoa adaptativa aos diversos ambientes, acredito que por conta disso sou de fácil relacionamento e comunicativa com todos ao meu redor.</p>
 
-🙋🏻 Quem é a Ester quanto pessoa? 
-
-Sou uma pessoa muito dedicada no que se propõe a fazer e não desistindo no primeiro desafio. Sou uma pessoa adaptativa aos diversos ambientes, acredito que por conta disso sou de fácil relacionamento e comunicativa com todos ao meu redor. 
+ 
 
 👓 Quem é a Ester quanto a tecnologia? 
 
