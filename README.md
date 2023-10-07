@@ -1,5 +1,5 @@
 <img src="BannerGitHub.png">
-<h2  align="center">✨ Welcome. ✨ <br> ✨ Bem-vindo(a). ✨<br> 
+<h2  align="center"> Welcome.  <br>  Bem-vindo(a). <br> 
 </h2>
 <div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estersouza99/)
