@@ -13,7 +13,7 @@
 
 <div align="center">
 <h3>Where to find me <br> Onde me encontrar</h3>
-<a href="estersouza.tech"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=%23E4405F&logo=Internet+Explorer&logoColor=FFFFFF&label=" target="_blank"></a>
+<a href="estersouza.free.nf"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=%23E4405F&logo=Internet+Explorer&logoColor=FFFFFF&label=" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ester-farias-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:esterfariasdesouza19@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/estersouza99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
