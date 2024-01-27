@@ -9,6 +9,8 @@
 <p align="justify">A curiosidade e a vontade de aprender sempre foram uns dos meus pontos fortes, sempre procurando me aprimorar e me desenvolver mais. Atualmente no 3° semestre de Engenharia de Software estudo Análise orientada a objetos, como também Redes e sistemas distribuídos. Como também conclui cursos na parte de front-end, sendo Web Designer em 2015. Porém venho reforçando os mesmos conhecimentos atualmente por meio de cursos na Udemy Finalizando um dos cursos longos, onde iniciei no começo de 2022 um curso sobre Desenvolvimento Web que aborda desde Bootstrap, Scss ao PHP e SQL.</p>
 <hr><br>
 
+[comment]: ![Metrics](https://metrics.lecoq.io/Ester-Farias?template=classic&isocalendar=1&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=America%2FSao_Paulo)
+  
 <div align="center"><img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-Farias&layout=compact&theme=white" /></div>
 
 <div align="center">
