@@ -9,8 +9,10 @@
 <p align="justify">A curiosidade e a vontade de aprender sempre foram uns dos meus pontos fortes, sempre procurando me aprimorar e me desenvolver mais. Atualmente no 3° semestre de Engenharia de Software estudo Análise orientada a objetos, como também Redes e sistemas distribuídos. Como também conclui cursos na parte de front-end, sendo Web Designer em 2015. Porém venho reforçando os mesmos conhecimentos atualmente por meio de cursos na Udemy Finalizando um dos cursos longos, onde iniciei no começo de 2022 um curso sobre Desenvolvimento Web que aborda desde Bootstrap, Scss ao PHP e SQL.</p>
 <hr><br>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ester-Farias&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
-<div align="center"><img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-Farias&layout=compact&theme=white" /></div>
+<div align="center">
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ester-Farias&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-Farias&layout=compact&theme=white" />
+</div>
 
 <div align="center">
 <h3>Where to find me <br> Onde me encontrar</h3>
